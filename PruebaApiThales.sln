@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaApiThales", "PruebaApiThales.csproj", "{87DBBF41-108D-4450-BBA1-62BA742C270E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaApiThales.Test", "..\PruebaApiThales.Test\PruebaApiThales.Test.csproj", "{7DA6F2B2-4725-4E07-8727-44D929729019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DBBF41-108D-4450-BBA1-62BA742C270E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DBBF41-108D-4450-BBA1-62BA742C270E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DBBF41-108D-4450-BBA1-62BA742C270E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DBBF41-108D-4450-BBA1-62BA742C270E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA6F2B2-4725-4E07-8727-44D929729019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA6F2B2-4725-4E07-8727-44D929729019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA6F2B2-4725-4E07-8727-44D929729019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA6F2B2-4725-4E07-8727-44D929729019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2903512E-016E-4053-B74F-A4AF8487956E}
+	EndGlobalSection
+EndGlobal
